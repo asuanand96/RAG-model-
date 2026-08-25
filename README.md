@@ -1,2 +1,2 @@
 # RAG-model-
-This repo contains a RAG model trained on physics research papers. All versions in the RAG model with refinements are available evalauted on standard performace metrics.
+This repo contains different versions of RAG models trained on physics research papers. All versions of the RAG models with refinements are available evalauted on standard performace metrics. rag_v0 stands for baseline model for comparison with enhanced models. 
